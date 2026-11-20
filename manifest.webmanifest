@@ -1,8 +1,8 @@
 {
  "id": "./",
- "name": "Khafji Ledger",
- "short_name": "Ledger",
- "description": "Household money for Al-Khafji. Scan bills, PDFs and bank messages without internet.",
+ "name": "Raseed",
+ "short_name": "Raseed",
+ "description": "Household money: scan bills, price tags, PDFs and bank messages on your own device.",
  "start_url": "./?source=app",
  "scope": "./",
  "display": "standalone",
